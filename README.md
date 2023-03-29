@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Alexandre Madeira 👋
 
-<!--
-**MadeiraAlexandre/MadeiraAlexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Brazil with a passion for building native, easy-to-use software. I specialize in Swift, SwiftUI, UIKit (programmatically) at the moment and have experience with C#, UWP, HTML, CSS, and basic experience with JavaScript and Tailwind CSS.
 
-Here are some ideas to get you started:
+## My Experience
+- I've built some apps over the years, including Cronica, which is available on the [App Store](https://apple.co/3TV9SLP ) for all Apple platforms (macOS, iOS, iPadOS, watchOS, tvOS) and open-sourced on [GitHub](https://github.com/MadeiraAlexandre/Cronica).
+- I used to develop apps for Windows using UWP, one of my apps, Celestial, is available on [GitHub]() as well.
+- My interests right now are mainly focused on Apple systems and backend development. I'm currently learning Rust and I'm always looking to learn more and improve my skills to deliver better software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+-  You can find me on Twitter at [_alexMadeira](url)
+- Check out my website at [ alexandremadeira.dev]( https://alexandremadeira.dev) to learn more about me and my work.
+- I'm also a gamer with a deep love for PlayStation Studios titles, so you can find me on PSN at MadeiraAlex.
+
+## Work with Me
+I'm available for hiring or collaboration, and you can contact me at [contact@alexandremadeira.dev](). Let's build something great together!
