@@ -13,4 +13,4 @@ I'm a developer from Brazil with a passion for building native, easy-to-use soft
 - I'm also a gamer with a deep love for PlayStation Studios titles, so you can find me on PSN at MadeiraAlex.
 
 ## Work with Me
-I'm available for hiring or collaboration, and you can contact me at [contact@alexandremadeira.dev](mailto: contact@alexandremadeira.dev). Let's build something great together!
+I'm available for hiring or collaboration, and you can contact me at <a href = "mailto: contact@alexandremadeira.dev"> contact@alexandremadeira.dev</a>. Let's build something great together!
