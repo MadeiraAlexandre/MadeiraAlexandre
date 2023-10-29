@@ -16,5 +16,5 @@ I'm a developer from Brazil with a passion for building native, easy-to-use soft
 I'm available for hiring or collaboration, and you can contact me at <a href = "mailto: contact@alexandremadeira.dev"> contact@alexandremadeira.dev</a>. Let's build something great together!
 
 ## My apps
-- [Cronica](https://apps.apple.com/us/app/cronica/id1614950275), Your Personal Watchlist.
-- [Kitsune for MyAnimeList](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447), Effortless Anime Tracking.
+- [Cronica](https://apps.apple.com/us/app/cronica/id1614950275), Your Personal Watchlist. (iOS, iPadOS, macOS, tvOS, watchOS)
+- [Kitsune for MyAnimeList](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447), Effortless Anime Tracking. (iOS, iPadOS)
